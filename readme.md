@@ -22,7 +22,7 @@ It showcases my skills in HTML, CSS, and responsive design, along with examples 
 
 ## Live Demo
 
-View the live portfolio site here: 
+View the live portfolio site here: https://jignabahenkalani.github.io/week1-assignment/
 My github link here: https://github.com/JignabahenKalani
 
 ## How to Use
